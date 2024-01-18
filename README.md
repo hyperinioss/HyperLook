@@ -18,9 +18,9 @@ araç hakkında:
 
 install in kali linux :
 
-sudo git clone https://github.com/vv1ck/FBI-Look
+sudo git clone https://github.com/hyperinioss/HyperLook
 
-cd FBI-Look
+cd HyperLook
 
     install libraries :
 
@@ -31,7 +31,7 @@ pip install phonenumbers
 
     Then run the tool :
 
-python3 FBI-Look.py
+python3 HyperLook.py
 
     The project is scalable 🕊
 
