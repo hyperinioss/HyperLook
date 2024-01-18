@@ -23,9 +23,7 @@ install in kali linux:
 
     sudo git clone https://github.com/hyperinioss/HyperLook
 
-
     cd HyperLook
-
 
  install libraries
 
