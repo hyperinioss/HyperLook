@@ -1,5 +1,5 @@
 # HyperLook
-# HyperLook.png
+
 Siteler ve kullanıcılar hakkında bilgi toplama
 
 araç hakkında:
@@ -19,21 +19,28 @@ araç hakkında:
 install in kali linux :
 
 sudo git clone https://github.com/hyperinioss/HyperLook
+-
 
 cd HyperLook
-
+-
     install libraries :
 
 pip install time
+-
 pip install requests
+-
 pip install threading
+-
 pip install phonenumbers
-
+-
     Then run the tool :
+    
 
 python3 HyperLook.py
 
+
     The project is scalable 🕊
+    
 
 By HYPERİNİOS | Telegram 👻 | instagram 🔷
                  byhyperinios   hyperinioss   
