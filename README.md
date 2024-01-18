@@ -16,24 +16,24 @@ araç hakkında:
     3 - Sitedeki bağlantıları çıkarın
     4 - portların açık olup olmadığını kontrol edin
 
-install in kali linux :
+install in kali linux
 
-sudo git clone https://github.com/hyperinioss/HyperLook
--
+sudo git clone https://github.com/hyperinioss/HyperLook :
 
-cd HyperLook
--
-    install libraries :
 
-pip install time
--
-pip install requests
--
-pip install threading
--
-pip install phonenumbers
--
-    Then run the tool :
+cd HyperLook :
+
+    install libraries
+
+pip install time :
+
+pip install requests :
+
+pip install threading :
+
+pip install phonenumbers :
+
+    Then run the tool
     
 
 python3 HyperLook.py
