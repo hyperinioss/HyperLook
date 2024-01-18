@@ -1,5 +1,8 @@
 # HyperLook
 
+![alt text](HyperLook.png)
+
+
 Siteler ve kullanıcılar hakkında bilgi toplama
 
 araç hakkında:
@@ -16,30 +19,30 @@ araç hakkında:
     3 - Sitedeki bağlantıları çıkarın
     4 - portların açık olup olmadığını kontrol edin
 
-install in kali linux
+install in kali linux:
 
-sudo git clone https://github.com/hyperinioss/HyperLook :
+    sudo git clone https://github.com/hyperinioss/HyperLook
 
 
-cd HyperLook :
+    cd HyperLook
 
-    install libraries
 
-pip install time :
+ install libraries
 
-pip install requests :
-
-pip install threading :
-
-pip install phonenumbers :
-
-    Then run the tool
+    pip install time
     
+    pip install requests
+    
+    pip install threading
+    
+    pip install phonenumbers
+    
+Then run the tool
 
-python3 HyperLook.py
+    python3 HyperLook.py
 
 
-    The project is scalable 🕊
+The project is scalable 🕊
     
 
 By HYPERİNİOS | Telegram 👻 | instagram 🔷
